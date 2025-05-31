@@ -1,5 +1,6 @@
 # Website Monitor
-Website Monitor
+
+Originally posted here:
 https://www.codeproject.com/Articles/74814/Website-Monitor
 
 This program is a VBS script that checks your website every minute and warns you when it goes offline.
